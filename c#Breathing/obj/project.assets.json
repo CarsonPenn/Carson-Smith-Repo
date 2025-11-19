@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/carsonsmith/Documents/ActiveLearning/c#Breathing/Develop04.csproj",
+      "projectUniqueName": "/Users/carsonsmith/Documents/GitHub/Carson-Smith-Repo/c#Breathing/Develop04.csproj",
       "projectName": "Develop04",
-      "projectPath": "/Users/carsonsmith/Documents/ActiveLearning/c#Breathing/Develop04.csproj",
+      "projectPath": "/Users/carsonsmith/Documents/GitHub/Carson-Smith-Repo/c#Breathing/Develop04.csproj",
       "packagesPath": "/Users/carsonsmith/.nuget/packages/",
-      "outputPath": "/Users/carsonsmith/Documents/ActiveLearning/c#Breathing/obj/",
+      "outputPath": "/Users/carsonsmith/Documents/GitHub/Carson-Smith-Repo/c#Breathing/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/carsonsmith/.nuget/NuGet/NuGet.Config"
@@ -43,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
